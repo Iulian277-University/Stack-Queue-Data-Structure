@@ -1,4 +1,4 @@
-# Stack & Queue data structures in C
+# Stack & Queue data structures implemented in C
 
 // Taiatu Iulian Marius - 312CB
 
