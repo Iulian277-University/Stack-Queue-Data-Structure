@@ -3,8 +3,8 @@
 ## Taiatu Iulian Marius - 312CB
 
 Pentru implementarea temei am folosit: 
-    -> Liste simplu inlantuite fara santinela
-    -> Stive si cozi implementate cu ajutorul listelor mentionate anterior
+-> Liste simplu inlantuite fara santinela
+-> Stive si cozi implementate cu ajutorul listelor mentionate anterior
 
 `ADD` - Functia care adauga un serial intr-una dintre cele 3 liste (tendinte, documentare, tutoriale):
     Am citit informatiile serialului din fisierul de input
